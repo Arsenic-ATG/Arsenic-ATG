@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 -->
 ## Hi there, I'm Ankur - aka Arsenic 👋
 
-- 🔭 I’m currently working on a File compresses
+- 🔭 I’m currently working on a [Python-Automation](https://github.com/Arsenic-ATG/Python-Automations)
 - 🌱 I’m currently learning python automation and IOS development
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play games
-
+- ⚡ Fun fact: I am an video game lover
 ---
 
 ### Languages and Tools:

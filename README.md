@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋 , I'm Ankur - aka Arsenic
 
-- 🔭 I’m currently working on a [Python-Automation](https://github.com/Arsenic-ATG/Python-Automations)
+- 🔭 I’m currently working on [automation projects](https://github.com/Arsenic-ATG/Python-Automations)
 - 🌱 I’m currently learning python automation and IOS development
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects

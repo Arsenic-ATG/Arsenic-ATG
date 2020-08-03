@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there, I'm Ankur - aka Arsenic 👋
+## Hi there 👋 , I'm Ankur - aka Arsenic
 
 - 🔭 I’m currently working on a [Python-Automation](https://github.com/Arsenic-ATG/Python-Automations)
 - 🌱 I’m currently learning python automation and IOS development

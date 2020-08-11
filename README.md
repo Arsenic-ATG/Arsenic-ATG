@@ -30,4 +30,4 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsenic-ATG)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsenic-ATG&hide=TeX,QMake&layout=compact)

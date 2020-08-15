@@ -26,8 +26,22 @@
 
 ---
 
+<details><summary> My Profile stats 📊</summary>
+<p>
+  
 ![Customized Card](https://github-readme-stats.vercel.app/api?username=Arsenic-ATG&show_icons=true&hide_border=true&count_private=true)
 
----
+</p>
+</details>
 
+
+---
+<details><summary> My Most Used Languages 👨‍💻</summary>
+<p>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsenic-ATG&hide=TeX,QMake&layout=compact)
+
+</p>
+</details>
+
+

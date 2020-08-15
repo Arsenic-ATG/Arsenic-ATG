@@ -26,6 +26,12 @@
 
 ---
 
+<p align="center">
+<img src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/code.gif" />
+</p>
+
+---
+
 <details><summary> My Profile stats 📊</summary>
 <p>
   

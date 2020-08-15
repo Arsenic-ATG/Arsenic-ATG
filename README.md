@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/code.gif" />
+</p>
+
+---
+
 ## Hi there <img align="center" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/hello.gif" width="35"> ,I'm Ankur - aka Arsenic
 
 - 🔭 I’m currently working on [automation projects](https://github.com/Arsenic-ATG/Python-Automations)
@@ -23,12 +29,6 @@
 
 <br />
 <br />
-
----
-
-<p align="center">
-<img src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/code.gif" />
-</p>
 
 ---
 

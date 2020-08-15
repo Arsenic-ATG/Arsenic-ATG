@@ -1,4 +1,5 @@
-## Hi there 👋 , I'm Ankur - aka Arsenic
+## Hi there <img align="center" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/hello.gif" width="50"> 
+##  I'm Ankur - aka Arsenic
 
 - 🔭 I’m currently working on [automation projects](https://github.com/Arsenic-ATG/Python-Automations)
 - 🌱 I’m currently learning Web Scraping and IOS development

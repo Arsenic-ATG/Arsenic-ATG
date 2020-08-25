@@ -6,7 +6,8 @@
 
 ## Hi there <img align="center" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/hello.gif" width="35"> ,I'm Ankur - aka Arsenic
 
-- 🔭 I’m currently working on [automation projects](https://github.com/Arsenic-ATG/Python-Automations)
+<!--- - 🔭 I’m currently working on [automation projects](https://github.com/Arsenic-ATG/Python-Automations)  --->
+- 🔭 I’m currently trying to build my own [text-editor](https://github.com/Arsenic-ATG/text-editor)
 - 🌱 I’m currently learning Web Scraping and IOS development
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects

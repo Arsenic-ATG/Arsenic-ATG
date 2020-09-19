@@ -47,11 +47,15 @@
 
 ---
 <details><summary> My Most Used Languages 👨‍💻</summary>
+  
 <p>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsenic-ATG&hide=TeX,QMake&layout=compact)
 
 </p>
+
+
+**NOTE** : Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 </details>
 
 

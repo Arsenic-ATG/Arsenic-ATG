@@ -10,7 +10,7 @@
 - 🔭 I’m currently trying to build my own [text-editor](https://github.com/Arsenic-ATG/text-editor)
 <!--- - 🌱 I’m currently learning Web Scraping and IOS development --->
 <!--- - 🌱 I’m currently learning more about working of text editors --->
-🌱 I’m currently learning IOS development
+- 🌱 I’m currently learning IOS development
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a video game lover

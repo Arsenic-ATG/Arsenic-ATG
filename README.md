@@ -37,7 +37,7 @@
 
 ---
 
-<details><summary> My Profile stats 📊</summary>
+<details><summary><strong> My Profile stats 📊</strong></summary>
 <p>
   
 ![Customized Card](https://github-readme-stats-liard-three.vercel.app/api?username=Arsenic-ATG&show_icons=true&hide_border=true&count_private=true)
@@ -47,7 +47,7 @@
 
 
 ---
-<details><summary> My Most Used Languages 👨‍💻</summary>
+<details><summary><strong> My Most Used Languages 👨‍💻</strong></summary>
   
 <p>
   

@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [concentration](https://github.com/Arsenic-ATG/concentration) (IOS app)
 <!--- - 🌱 I’m currently learning Web Scraping and IOS development --->
 <!--- - 🌱 I’m currently learning more about working of text editors --->
-- 🌱 I’m currently learning IOS development
+- 🌱 I’m currently learning IOS development using swift
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a video game lover

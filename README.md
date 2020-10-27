@@ -7,10 +7,10 @@
 ## Hi there <img align="center" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/hello.gif" width="35"> ,I'm Ankur - aka Arsenic
 
 <!--- - 🔭 I’m currently working on [automation projects](https://github.com/Arsenic-ATG/Python-Automations)  --->
-<!--- - 🔭 I’m currently trying to build my own [text-editor](https://github.com/Arsenic-ATG/text-editor) -->
-- 🔭 I’m currently working on [concentration](https://github.com/Arsenic-ATG/concentration) (IOS app)
+- 🔭 I’m currently trying to build my own [text-editor](https://github.com/Arsenic-ATG/text-editor)
+<!--- - 🔭 I’m currently working on [concentration](https://github.com/Arsenic-ATG/concentration) (IOS app) --->
 <!--- - 🌱 I’m currently learning Web Scraping and IOS development --->
-<!--- - 🌱 I’m currently learning more about working of text editors --->
+- 🌱 I’m currently learning more about working of text editors
 - 🌱 I’m currently learning IOS development using swift
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects

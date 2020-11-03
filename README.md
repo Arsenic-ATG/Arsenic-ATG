@@ -62,5 +62,5 @@
 
  ----
  
-#### If you are looking👀 to contribute to a project then check out [Awsome Automations](https://github.com/Arsenic-ATG/Awesome-Automations) 🧐 repository, You might find something that interset you there.
+#### If you are looking 👀 to contribute to a project then check out [Awsome Automations](https://github.com/Arsenic-ATG/Awesome-Automations) 🧐 repository, You might find something that interset you there.
  ----

@@ -13,7 +13,7 @@
 <!--- - 🌱 I’m currently learning more about working of text editors --->
 <!--- - 🌱 I’m currently learning IOS development using swift --->
 - 🌱 I'm currently learning more about compilers and their ⚙️working
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other open source enthusiasts on some 😎cool projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a video game lover
 ---
@@ -60,4 +60,7 @@
 **NOTE** : the above data does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 </details>
 
-
+ ----
+ 
+##### If you are looking to contribute to a project then check out [Awsome Automations](https://github.com/Arsenic-ATG/Awesome-Automations) repository, You might find somthing that interset you there.
+ ----

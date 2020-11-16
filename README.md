@@ -1,11 +1,10 @@
 <p align="center">
-<img src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/happy%20diwali.jpg" />
+<img src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/code.gif" />
 </p>
 
 ---
-<h2 align="center">
-Hi there <img align="center" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/hello.gif" width="35"> ,I'm Ankur - aka Arsenic
-</h2>
+
+# Hi there <img align="center" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/hello.gif" width="35"> ,I'm Ankur - aka Arsenic
 
 <!--- - 🔭 I’m currently working on [automation projects](https://github.com/Arsenic-ATG/Python-Automations)  --->
 - 🔭 I’m currently trying to build my own [text-editor](https://github.com/Arsenic-ATG/text-editor)

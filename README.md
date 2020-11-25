@@ -6,7 +6,7 @@
 
 # Hi there <img align="center" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/hello.gif" width="35"> ,I'm Ankur - aka Arsenic
 
-- 🔭 I’m currently working on [competitive programming setup automation](https://github.com/users/Arsenic-ATG/projects/4)
+- 🔭 I’m currently working on my [competitive programming setup automation](https://github.com/users/Arsenic-ATG/projects/4)
 - 🌱 I'm currently learning more about compilers and their ⚙️working
 - 👯 I’m looking to collaborate with other open source enthusiasts on some 😎cool projects
 - 🥅 2020 Goals: Contribute more to Open Source projects

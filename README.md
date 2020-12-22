@@ -36,7 +36,7 @@
 <details><summary><strong>Click to see my Profile stats 📊</strong></summary>
 <p>
   
-![Customized Card](https://github-readme-stats-liard-three.vercel.app/api?username=Arsenic-ATG&show_icons=true&hide_border=true&count_private=true)
+![Customized Card](https://github-readme-stats-2.arsenic-atg.vercel.app/api?username=Arsenic-ATG&show_icons=true&hide_border=true&count_private=true)
 
 </p>
 </details>
@@ -47,7 +47,7 @@
   
 <p>
   
-![Top Langs](https://github-readme-stats-liard-three.vercel.app/api/top-langs/?username=Arsenic-ATG&hide=TeX,QMake&layout=compact)
+![Top Langs](https://github-readme-stats-2.arsenic-atg.vercel.app/api/top-langs/?username=Arsenic-ATG&hide=TeX,QMake&layout=compact)
 
 </p>
 

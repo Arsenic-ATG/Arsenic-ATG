@@ -39,6 +39,12 @@
 ![Customized Card](https://github-readme-stats-2.arsenic-atg.vercel.app/api?username=Arsenic-ATG&show_icons=true&hide_border=true&count_private=true)
 
 </p>
+
+<p>
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=Arsenic-ATG&theme=onedark)
+
+</p>
 </details>
 
 

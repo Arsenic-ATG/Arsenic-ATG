@@ -36,13 +36,13 @@
 <details><summary><strong>Click to see my Profile stats 📊</strong></summary>
 <p>
   
-![Customized Card](https://github-readme-stats-2.arsenic-atg.vercel.app/api?username=Arsenic-ATG&show_icons=true&hide_border=true&count_private=true)
+![Customized Card](https://github-readme-stats-2.arsenic-atg.vercel.app/api?username=Arsenic-ATG&show_icons=true&hide_border=true&count_private=true&theme=nord)
 
 </p>
 
 <p>
   
-![trophy](https://github-profile-trophy.vercel.app/?username=Arsenic-ATG&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Arsenic-ATG&theme=nord)
 
 </p>
 </details>
@@ -53,7 +53,7 @@
   
 <p>
   
-![Top Langs](https://github-readme-stats-2.arsenic-atg.vercel.app/api/top-langs/?username=Arsenic-ATG&hide=TeX,QMake&layout=compact)
+![Top Langs](https://github-readme-stats-2.arsenic-atg.vercel.app/api/top-langs/?username=Arsenic-ATG&hide=TeX,QMake&theme=nord&layout=compact)
 
 </p>
 

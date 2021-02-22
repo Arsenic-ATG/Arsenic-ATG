@@ -34,31 +34,21 @@
 ---
 
 <details><summary><strong>Click to see my Profile stats 📊</strong></summary>
-<p>
-  
-![Customized Card](https://github-readme-stats-2.arsenic-atg.vercel.app/api?username=Arsenic-ATG&show_icons=true&hide_border=true&count_private=true&theme=nord)
+<br />
+
+<p align="center">
+<a href="https://github.com/Arsenic-ATG">
+  <img height="180em" src="https://github-readme-stats-2.arsenic-atg.vercel.app/api?username=Arsenic-ATG&show_icons=true&hide_border=true&count_private=true&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats-2.arsenic-atg.vercel.app/api/top-langs/?username=Arsenic-ATG&hide=TeX,QMake&theme=nord&layout=compact&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Arsenic-ATG">
+  <img height="130em" src="https://github-profile-trophy.vercel.app/?username=Arsenic-ATG&theme=nord&no-frame=true&margin-w=5"/>
+</a>
 
 </p>
 
-<p>
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=Arsenic-ATG&theme=nord)
-
-</p>
-</details>
-
-
----
-<details><summary><strong>Click to see my most used languages 👨‍💻</strong></summary>
-  
-<p>
-  
-![Top Langs](https://github-readme-stats-2.arsenic-atg.vercel.app/api/top-langs/?username=Arsenic-ATG&hide=TeX,QMake&theme=nord&layout=compact)
-
-</p>
-
-
-**NOTE** : the above data does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
+**NOTE** : the above data (Most Used Languages) does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 </details>
 
  ----

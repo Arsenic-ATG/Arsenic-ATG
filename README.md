@@ -43,7 +43,7 @@
 </a>
 
 <a href="https://github.com/Arsenic-ATG">
-  <img height="130em" src="https://github-profile-trophy.vercel.app/?username=Arsenic-ATG&theme=nord&no-frame=true&margin-w=5"/>
+  <img height="136em" src="https://github-profile-trophy.vercel.app/?username=Arsenic-ATG&theme=nord&no-frame=true&margin-w=4"/>
 </a>
 
 </p>

@@ -37,16 +37,16 @@
 <br />
 
 <p align="center">
-<a href="https://github.com/Arsenic-ATG">
+<a>
   <img height="180em" src="https://github-readme-stats-2.arsenic-atg.vercel.app/api?username=Arsenic-ATG&show_icons=true&hide_border=true&count_private=true&theme=nord"/>
   <img height="180em" src="https://github-readme-stats-2.arsenic-atg.vercel.app/api/top-langs/?username=Arsenic-ATG&hide=TeX,QMake&theme=nord&layout=compact&hide_border=true"/>
 </a>
 
-<a href="https://github.com/Arsenic-ATG">
+<a>
   <img height="136em" src="https://github-profile-trophy.vercel.app/?username=Arsenic-ATG&theme=nord&no-frame=true&margin-w=4"/>
 </a>
 
-<a >
+<a>
   <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=arsenic-atg&hide_border=true&theme=nord" />
 </a>
 

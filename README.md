@@ -46,6 +46,10 @@
   <img height="136em" src="https://github-profile-trophy.vercel.app/?username=Arsenic-ATG&theme=nord&no-frame=true&margin-w=4"/>
 </a>
 
+<a >
+  <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=arsenic-atg&hide_border=true&theme=nord" />
+</a>
+
 </p>
 
 **NOTE** : the above data (Most Used Languages) does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github

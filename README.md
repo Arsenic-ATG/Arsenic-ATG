@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my [competitive programming setup automation](https://github.com/Arsenic-ATG/CP-setup)
 - 🌱 I'm currently learning more about compilers and their ⚙️working
 - 👯 I’m looking to collaborate with other open source enthusiasts on some 😎cool projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a video game lover
 ---
 

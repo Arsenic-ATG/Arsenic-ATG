@@ -65,3 +65,6 @@
 <a href= "https://discord.com/users/Arsenic#9256">
 <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
+<a href= "https://stackoverflow.com/users/12030775/arsenic">
+<img src= "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+</a>

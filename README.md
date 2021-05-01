@@ -15,18 +15,20 @@
 
 ### Languages and Tools 🛠:
 
-<img align="left" alt="C++" width="28px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" alt="Python" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img align="left" alt="C" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="Swift" width="28px" src="https://www.logolynx.com/images/logolynx/48/48f08711239dd75140837d9db6a482da.png" />
-<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Qt" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1156px-Qt_logo_2016.svg.png" />
-<img align="left" alt="Xcode" width="28px" src="https://developer.apple.com/library/archive/documentation/ToolsLanguages/Conceptual/Xcode_Overview/Art/XcodeIcon_2x.png" />
-<img align="left" alt="sublime" width="28px" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/Sublime_Text_3_logo.png" />
-<img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="28px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-<img align="left" alt="terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-language-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=blue" />
+<img align="left" alt="C" src="https://img.shields.io/badge/%20-language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23A8B9CC&logoColor=black" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/python-language-%23434C5E?style=for-the-badge&logo=python&%2B%2B&labelColor=%233776AB&logoColor=white" />
+<img align="left" alt="Swift" src="https://img.shields.io/badge/Swift-language-%23434C5E?style=for-the-badge&logo=Swift&labelColor=%23FA7343&logoColor=white" />
+<img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML-language-%23434C5E?style=for-the-badge&logo=HTML5&%2B%2B&labelColor=%23E34F26&logoColor=white" />
+<img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS-language-%23434C5E?style=for-the-badge&logo=CSS3&labelColor=%231572b6" />
+
+<!---<img align="left" alt="Qt" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1156px-Qt_logo_2016.svg.png" />
+<img align="left" alt="Xcode" src="https://developer.apple.com/library/archive/documentation/ToolsLanguages/Conceptual/Xcode_Overview/Art/XcodeIcon_2x.png" />
+<img align="left" alt="sublime" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/Sublime_Text_3_logo.png" />
+<img align="left" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+<img align="left" alt="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+--->
 
 <br />
 <br />

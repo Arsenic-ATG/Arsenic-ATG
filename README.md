@@ -15,19 +15,19 @@
 
 ### Languages and Tools 🛠:
 
-![C++](https://img.shields.io/badge/C%2B%2B-language-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%23800000)
-![C](https://img.shields.io/badge/%20-language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23A8B9CC&logoColor=black)
-![Python](https://img.shields.io/badge/python-language-%23434C5E?style=for-the-badge&logo=python&%2B%2B&labelColor=%233776AB&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-language-%23434C5E?style=for-the-badge&logo=Swift&labelColor=%23FA7343&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-language-%23434C5E?style=for-the-badge&logo=HTML5&%2B%2B&labelColor=%23E34F26&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-language-%23434C5E?style=for-the-badge&logo=CSS3&labelColor=%231572b6)
-![Qt](https://img.shields.io/badge/Qt-Framework-%23434C5E?style=for-the-badge&logo=Qt&labelColor=%2341CD52&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%23800000)
+![C](https://img.shields.io/badge/%20-C--language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23A8B9CC&logoColor=black)
+![Python](https://img.shields.io/badge/python-%23434C5E?style=for-the-badge&logo=python&%2B%2B&labelColor=%233776AB&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23434C5E?style=for-the-badge&logo=Swift&labelColor=%23FA7343&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-%23434C5E?style=for-the-badge&logo=HTML5&%2B%2B&labelColor=%23E34F26&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-%23434C5E?style=for-the-badge&logo=CSS3&labelColor=%231572b6)
+![Qt](https://img.shields.io/badge/Qt-%23434C5E?style=for-the-badge&logo=Qt&labelColor=%2341CD52&logoColor=white)
 <br />
 <br />
-![Xcode](https://img.shields.io/badge/Xcode-IDE-%23434C5E?style=for-the-badge&logo=Xcode&labelColor=%23147EFB&logoColor=white)
-![Sublime](https://img.shields.io/badge/Sublime--Text-Text%20Editor-%23434C5E?style=for-the-badge&logo=sublime%20text&labelColor=%23FF9800&logoColor=black)
-![Shell](https://img.shields.io/badge/Zsh-shell-%23434C5E?style=for-the-badge&logo=powerShell&labelColor=%23000000&logoColor=white)
-![Git](https://img.shields.io/badge/Git-version%20control-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-%23434C5E?style=for-the-badge&logo=Xcode&labelColor=%23147EFB&logoColor=white)
+![Sublime](https://img.shields.io/badge/Sublime--Text-%23434C5E?style=for-the-badge&logo=sublime%20text&labelColor=%23FF9800&logoColor=black)
+![Shell](https://img.shields.io/badge/Z--shell-%23434C5E?style=for-the-badge&logo=powerShell&labelColor=%23000000&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)
 
 ---
 

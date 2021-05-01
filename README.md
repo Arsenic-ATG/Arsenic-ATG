@@ -15,13 +15,18 @@
 
 ### Languages and Tools 🛠:
 
-<img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-language-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=blue" />
-<img align="left" alt="C" src="https://img.shields.io/badge/%20-language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23A8B9CC&logoColor=black" />
-<img align="left" alt="Python" src="https://img.shields.io/badge/python-language-%23434C5E?style=for-the-badge&logo=python&%2B%2B&labelColor=%233776AB&logoColor=white" />
-<img align="left" alt="Swift" src="https://img.shields.io/badge/Swift-language-%23434C5E?style=for-the-badge&logo=Swift&labelColor=%23FA7343&logoColor=white" />
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML-language-%23434C5E?style=for-the-badge&logo=HTML5&%2B%2B&labelColor=%23E34F26&logoColor=white" />
-<img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS-language-%23434C5E?style=for-the-badge&logo=CSS3&labelColor=%231572b6" />
-
+![C++](https://img.shields.io/badge/C%2B%2B-language-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=blue)
+![C](https://img.shields.io/badge/%20-language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23A8B9CC&logoColor=black)
+![Python](https://img.shields.io/badge/python-language-%23434C5E?style=for-the-badge&logo=python&%2B%2B&labelColor=%233776AB&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-language-%23434C5E?style=for-the-badge&logo=Swift&labelColor=%23FA7343&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-language-%23434C5E?style=for-the-badge&logo=HTML5&%2B%2B&labelColor=%23E34F26&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-language-%23434C5E?style=for-the-badge&logo=CSS3&labelColor=%231572b6)
+<!---
+<img alt="Python" src="https://img.shields.io/badge/python-language-%23434C5E?style=for-the-badge&logo=python&%2B%2B&labelColor=%233776AB&logoColor=white" />
+<img alt="Swift" src="https://img.shields.io/badge/Swift-language-%23434C5E?style=for-the-badge&logo=Swift&labelColor=%23FA7343&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML-language-%23434C5E?style=for-the-badge&logo=HTML5&%2B%2B&labelColor=%23E34F26&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS-language-%23434C5E?style=for-the-badge&logo=CSS3&labelColor=%231572b6" />
+--->
 <!---<img align="left" alt="Qt" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1156px-Qt_logo_2016.svg.png" />
 <img align="left" alt="Xcode" src="https://developer.apple.com/library/archive/documentation/ToolsLanguages/Conceptual/Xcode_Overview/Art/XcodeIcon_2x.png" />
 <img align="left" alt="sublime" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/Sublime_Text_3_logo.png" />

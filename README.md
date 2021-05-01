@@ -21,22 +21,19 @@
 ![Swift](https://img.shields.io/badge/Swift-language-%23434C5E?style=for-the-badge&logo=Swift&labelColor=%23FA7343&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-language-%23434C5E?style=for-the-badge&logo=HTML5&%2B%2B&labelColor=%23E34F26&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-language-%23434C5E?style=for-the-badge&logo=CSS3&labelColor=%231572b6)
-<!---
-<img alt="Python" src="https://img.shields.io/badge/python-language-%23434C5E?style=for-the-badge&logo=python&%2B%2B&labelColor=%233776AB&logoColor=white" />
-<img alt="Swift" src="https://img.shields.io/badge/Swift-language-%23434C5E?style=for-the-badge&logo=Swift&labelColor=%23FA7343&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/HTML-language-%23434C5E?style=for-the-badge&logo=HTML5&%2B%2B&labelColor=%23E34F26&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS-language-%23434C5E?style=for-the-badge&logo=CSS3&labelColor=%231572b6" />
---->
+![Qt](https://img.shields.io/badge/Qt-Framework-%23434C5E?style=for-the-badge&logo=Qt&labelColor=%2341CD52&logoColor=white)
+<br />
+<br />
+![Xcode](https://img.shields.io/badge/Xcode-IDE-%23434C5E?style=for-the-badge&logo=Xcode&labelColor=%23147EFB&logoColor=white)
+![Sublime](https://img.shields.io/badge/Sublime--Text-Text%20Editor-%23434C5E?style=for-the-badge&logo=sublime%20text&labelColor=%23FF9800&logoColor=black)
+![Shell](https://img.shields.io/badge/Zsh-shell-%23434C5E?style=for-the-badge&logo=powerShell&labelColor=%23000000&logoColor=white)
+![Git](https://img.shields.io/badge/Git-version%20control-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)
 <!---<img align="left" alt="Qt" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1156px-Qt_logo_2016.svg.png" />
-<img align="left" alt="Xcode" src="https://developer.apple.com/library/archive/documentation/ToolsLanguages/Conceptual/Xcode_Overview/Art/XcodeIcon_2x.png" />
 <img align="left" alt="sublime" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/Sublime_Text_3_logo.png" />
 <img align="left" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 --->
-
-<br />
-<br />
 
 ---
 

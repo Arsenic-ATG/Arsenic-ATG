@@ -15,7 +15,7 @@
 
 ### Languages and Tools 🛠:
 
-![C++](https://img.shields.io/badge/C%2B%2B-language-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=blue)
+![C++](https://img.shields.io/badge/C%2B%2B-language-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%23800000)
 ![C](https://img.shields.io/badge/%20-language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23A8B9CC&logoColor=black)
 ![Python](https://img.shields.io/badge/python-language-%23434C5E?style=for-the-badge&logo=python&%2B%2B&labelColor=%233776AB&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-language-%23434C5E?style=for-the-badge&logo=Swift&labelColor=%23FA7343&logoColor=white)
@@ -28,12 +28,6 @@
 ![Sublime](https://img.shields.io/badge/Sublime--Text-Text%20Editor-%23434C5E?style=for-the-badge&logo=sublime%20text&labelColor=%23FF9800&logoColor=black)
 ![Shell](https://img.shields.io/badge/Zsh-shell-%23434C5E?style=for-the-badge&logo=powerShell&labelColor=%23000000&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-version%20control-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)
-<!---<img align="left" alt="Qt" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1156px-Qt_logo_2016.svg.png" />
-<img align="left" alt="sublime" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/Sublime_Text_3_logo.png" />
-<img align="left" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-<img align="left" alt="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
---->
 
 ---
 

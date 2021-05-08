@@ -41,7 +41,7 @@
 </a>
 
 <a>
-  <img height="136em" src="https://github-profile-trophy.vercel.app/?username=Arsenic-ATG&theme=nord&no-frame=true&margin-w=4"/>
+  <img height="137em" src="https://github-profile-trophy.vercel.app/?username=Arsenic-ATG&theme=nord&no-frame=true&margin-w=4&row=1"/>
 </a>
 
 <a>

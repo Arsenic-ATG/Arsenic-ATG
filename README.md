@@ -55,7 +55,7 @@
 
  ----
  
-#### If you are looking 👀 to contribute to a project then check out [Awsome Automations](https://github.com/Arsenic-ATG/Awesome-Automations) 🧐 repository, You might find something that interset you there.
+#### If you are looking 👀 to contribute to a project then check out [Awsome Automations](https://github.com/Arsenic-ATG/Awesome-Automations) 🧐 repository, You might find something that interests you.
  ----
 <a href= mailto:arsenic.secondary@gmail.com>
 <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>

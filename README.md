@@ -60,7 +60,7 @@
 <a href= mailto:arsenic.secondary@gmail.com>
 <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href= "https://discord.com/users/Arsenic#9256">
+<a href= "https://discord.com/users/711927506445533205">
 <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 <a href= "https://stackoverflow.com/users/12030775/arsenic?tab=profile">

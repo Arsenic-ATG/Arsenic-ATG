@@ -6,7 +6,7 @@
 
 # Hi there <img align="center" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/hello.gif" width="35"> ,I'm Ankur - aka Arsenic
 
-- 🔭 I’m currently working on [my **GSoC** project](https://summerofcode.withgoogle.com/projects/#5382707791527936)
+- 🔭 I’m currently working on [my Text Editor project](https://github.com/Arsenic-ATG/Text-Editor)
 - 🌱 I'm currently learning more about compilers and their ⚙️working
 - 👯 I’m looking to collaborate with other open source enthusiasts on some 😎cool projects
 - 🥅 2021 Goals: Contribute more to Open Source projects

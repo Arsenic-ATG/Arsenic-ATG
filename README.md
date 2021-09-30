@@ -8,6 +8,7 @@
 
 - 🔭 I’m currently working on [my Text Editor project](https://github.com/Arsenic-ATG/Text-Editor)
 - 🌱 I'm currently learning more about compilers and their ⚙️working
+- ✉️ Best Medium to contact me is via [mail](mailto:arsenic.secondary@gmail.com)
 - 👯 I’m looking to collaborate with other open source enthusiasts on some 😎cool projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a video game lover

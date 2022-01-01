@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning more about [compiler's design](https://en.wikipedia.org/wiki/Compiler)<!--- - 🔭 I’m currently trying to get familier with using [emacs](https://www.gnu.org/software/emacs/)-->
 - ✉️ Best Medium to contact me is via [mail](mailto:arsenic.secondary@gmail.com)
 - 👯 I’m looking to collaborate with other open source enthusiasts on some 😎cool projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: increase my average typing speed to 100+ wpm ( currrently at 77 wpm )
 - ⚡ Fun fact: I am a video game lover
 ---
 

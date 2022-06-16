@@ -25,7 +25,7 @@
 [![Qt](https://img.shields.io/badge/Qt-%23434C5E?style=for-the-badge&logo=Qt&labelColor=%2341CD52&logoColor=white)](https://www.qt.io)
 <br />
 <br />
-[![Emacs](https://img.shields.io/badge/GNU%20Emacs-%23434C5E?style=for-the-badge&logo=gnuemacs&labelColor=%237F5AB6&logoColor=white)](https://www.gnu.org/software/emacs/)
+[![Emacs](https://img.shields.io/badge/GNU%20Emacs-%23434C5E?style=for-the-badge&logo=gnuemacs&labelColor=%237F5AB6&logoColor=white)](https://github.com/Arsenic-ATG/Emacs-config)
 [![Xcode](https://img.shields.io/badge/Xcode-%23434C5E?style=for-the-badge&logo=Xcode&labelColor=%23147EFB&logoColor=white)](https://en.wikipedia.org/wiki/Xcode)
 [![Sublime](https://img.shields.io/badge/Sublime--Text-%23434C5E?style=for-the-badge&logo=sublime%20text&labelColor=%23FF9800&logoColor=black)](https://en.wikipedia.org/wiki/Sublime_Text)
 [![Shell](https://img.shields.io/badge/Z--shell-%23434C5E?style=for-the-badge&logo=powerShell&labelColor=%23000000&logoColor=white)](https://en.wikipedia.org/wiki/Z_shell)

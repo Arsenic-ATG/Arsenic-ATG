@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/code.gif" />
+<img src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/arsenic_banner.png" />
 </p>
 
 ---

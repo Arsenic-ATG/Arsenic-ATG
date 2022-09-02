@@ -14,7 +14,28 @@
 - ⚡ Fun fact: I love playing video games and draw pixelart
 ---
 
-### Languages and Tools 🛠:
+### Skills 🛠:
+
+ Programming languages :
+ 
+ [![C++](https://img.shields.io/badge/C%2B%2B-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%23800000)](https://en.wikipedia.org/wiki/C%2B%2B)
+ [![C](https://img.shields.io/badge/%20-C--language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23A8B9CC&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+ [![Python](https://img.shields.io/badge/python-%23434C5E?style=for-the-badge&logo=python&%2B%2B&labelColor=%233776AB&logoColor=white)](https://www.python.org)
+ [![Elisp](https://img.shields.io/badge/Elisp-%23434C5E?style=for-the-badge&logo=gnuemacs&labelColor=%237F5AB6&logoColor=white)](https://en.wikipedia.org/wiki/Emacs_Lisp)
+ [![Swift](https://img.shields.io/badge/Swift-%23434C5E?style=for-the-badge&logo=Swift&labelColor=%23FA7343&logoColor=white)](https://developer.apple.com/swift/)
+ 
+ Frameworks and tools : 
+ 
+ [![Qt](https://img.shields.io/badge/Qt-%23434C5E?style=for-the-badge&logo=Qt&labelColor=%2341CD52&logoColor=white)](https://www.qt.io)
+ [![CocoaTouch](https://img.shields.io/badge/Cocoa(touch)-%23434C5E?style=for-the-badge&logo=Apple&labelColor=white&logoColor=black)(https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html) [![SDL2.0](https://img.shields.io/badge/SDL2.0-%23434C5E?style=for-the-badge)](https://www.libsdl.org) emscripten, gcc, llvm, clang, doxygen
+● Documentation: markdown, Emacs-org mode, doxygen
+● debugging: gdb, lldb, valgrind
+● Version Control : Git
+● Data Base : MySQL
+● Operating System : Emacs, MacOS, Windows
+● Terminal: Emacs-vterm, iterm-2, warp
+● Shell: zsh, bash, eshell
+● Text Editor: Emacs, sublime-text, Xcode, vi (terminal)
 
 [![C++](https://img.shields.io/badge/C%2B%2B-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%23800000)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![C](https://img.shields.io/badge/%20-C--language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23A8B9CC&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))

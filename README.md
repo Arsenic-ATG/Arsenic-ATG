@@ -27,7 +27,9 @@
  Frameworks and tools : 
  
  [![Qt](https://img.shields.io/badge/Qt-%23434C5E?style=for-the-badge&logo=Qt&labelColor=%2341CD52&logoColor=white)](https://www.qt.io)
- [![CocoaTouch](https://img.shields.io/badge/Cocoa(touch)-%23434C5E?style=for-the-badge&logo=Apple&labelColor=white&logoColor=black)(https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html) [![SDL2.0](https://img.shields.io/badge/SDL2.0-%23434C5E?style=for-the-badge)](https://www.libsdl.org) emscripten, gcc, llvm, clang, doxygen
+ [![CocoaTouch](https://img.shields.io/badge/Cocoa(touch)-%23434C5E?style=for-the-badge&logo=Apple&labelColor=white&logoColor=black)](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html)
+ [![SDL2.0](./assets/badges/sdl_shield.svg)](https://www.libsdl.org) 
+ [![emscripten](./assets/badges/emscripten_shield.svg)](https://emscripten.org), gcc, llvm, clang, doxygen
 ● Documentation: markdown, Emacs-org mode, doxygen
 ● debugging: gdb, lldb, valgrind
 ● Version Control : Git

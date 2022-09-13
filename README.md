@@ -29,30 +29,48 @@
  [![Qt](https://img.shields.io/badge/Qt-%23434C5E?style=for-the-badge&logo=Qt&labelColor=%2341CD52&logoColor=white)](https://www.qt.io)
  [![CocoaTouch](https://img.shields.io/badge/Cocoa(touch)-%23434C5E?style=for-the-badge&logo=Apple&labelColor=white&logoColor=black)](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html)
  [![SDL2.0](./assets/badges/sdl_shield.svg)](https://www.libsdl.org) 
- [![emscripten](./assets/badges/emscripten_shield.svg)](https://emscripten.org), gcc, llvm, clang, doxygen
-● Documentation: markdown, Emacs-org mode, doxygen
-● debugging: gdb, lldb, valgrind
-● Version Control : Git
-● Data Base : MySQL
-● Operating System : Emacs, MacOS, Windows
-● Terminal: Emacs-vterm, iterm-2, warp
-● Shell: zsh, bash, eshell
-● Text Editor: Emacs, sublime-text, Xcode, vi (terminal)
+ [![emscripten](./assets/badges/emscripten_shield.svg)](https://emscripten.org)
+ [![gcc](./assets/badges/gcc_shield.svg)](https://gcc.gnu.org)
+ [![llvm](https://img.shields.io/badge/LLVM-%23434C5E?style=for-the-badge&logo=llvm&labelColor=%23262D3A&logoColor=white)](https://llvm.org)
+ [![doxygen](./assets/badges/doxygen_shield.svg)](https://doxygen.nl)
+ 
+Documentation: 
 
-[![C++](https://img.shields.io/badge/C%2B%2B-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%23800000)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![C](https://img.shields.io/badge/%20-C--language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23A8B9CC&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Python](https://img.shields.io/badge/python-%23434C5E?style=for-the-badge&logo=python&%2B%2B&labelColor=%233776AB&logoColor=white)](https://www.python.org)
-[![Swift](https://img.shields.io/badge/Swift-%23434C5E?style=for-the-badge&logo=Swift&labelColor=%23FA7343&logoColor=white)](https://developer.apple.com/swift/)
-[![HTML5](https://img.shields.io/badge/HTML-%23434C5E?style=for-the-badge&logo=HTML5&%2B%2B&labelColor=%23E34F26&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
-[![CSS3](https://img.shields.io/badge/CSS-%23434C5E?style=for-the-badge&logo=CSS3&labelColor=%231572b6)](https://en.wikipedia.org/wiki/CSS)
-[![Qt](https://img.shields.io/badge/Qt-%23434C5E?style=for-the-badge&logo=Qt&labelColor=%2341CD52&logoColor=white)](https://www.qt.io)
-<br />
-<br />
-[![Emacs](https://img.shields.io/badge/GNU%20Emacs-%23434C5E?style=for-the-badge&logo=gnuemacs&labelColor=%237F5AB6&logoColor=white)](https://github.com/Arsenic-ATG/Emacs-config)
+[![markdown](https://img.shields.io/badge/markdown-%23434C5E?style=for-the-badge&logo=Markdown&labelColor=black&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
+[![org mode](https://img.shields.io/badge/Org%20mode-%23434C5E?style=for-the-badge&logo=Org&labelColor=%2377AA99&logoColor=white)](https://orgmode.org)
+
+debugging 
+
+[![gdb](./assets/badges/gdb_shield.svg)](https://www.sourceware.org/gdb/)
+[![lldb](https://img.shields.io/badge/LLDB-%23434C5E?style=for-the-badge&logo=llvm&labelColor=%23262D3A&logoColor=white)](https://lldb.llvm.org)
+
+Version Control
+
+[![Git](https://img.shields.io/badge/Git-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)](https://git-scm.com)
+
+
+ Data Base:
+ 
+ [![MySQL](https://img.shields.io/badge/MySQL-%23434C5E?style=for-the-badge&logo=MySQL&labelColor=%234479A1&logoColor=black)](https://www.mysql.com)
+
+
+ Operating System:
+ 
+ [![Emacs](https://img.shields.io/badge/GNU%20Emacs-%23434C5E?style=for-the-badge&logo=gnuemacs&labelColor=%237F5AB6&logoColor=white)](https://github.com/Arsenic-ATG/Emacs-config)
+ [![MacOS](https://img.shields.io/badge/Macos-%23434C5E?style=for-the-badge&logo=apple&labelColor=white&logoColor=black)]()
+ [![Windows](https://img.shields.io/badge/Windows-%23434C5E?style=for-the-badge&logo=Windows&labelColor=%230078D6&logoColor=black)]()
+ 
+ Terminal and Shells: 
+ 
+ [![iterm-2](https://img.shields.io/badge/iterm2-%23434C5E?style=for-the-badge&logo=iTerm2&labelColor=black&logoColor=white)]()
+ [![warp](./assets/badges/warp_shield.svg)]()
+ [![Shell](https://img.shields.io/badge/Z--shell-%23434C5E?style=for-the-badge&logo=powerShell&labelColor=%23000000&logoColor=white)](https://en.wikipedia.org/wiki/Z_shell)
+ 
+ Text Editor
+
+[![Emacs](https://img.shields.io/badge/GNU%20Emacs-%23434C5E?style=for-the-badge&logo=gnuemacs&labelColor=%237F5AB6&logoColor=white)]()
 [![Xcode](https://img.shields.io/badge/Xcode-%23434C5E?style=for-the-badge&logo=Xcode&labelColor=%23147EFB&logoColor=white)](https://en.wikipedia.org/wiki/Xcode)
 [![Sublime](https://img.shields.io/badge/Sublime--Text-%23434C5E?style=for-the-badge&logo=sublime%20text&labelColor=%23FF9800&logoColor=black)](https://en.wikipedia.org/wiki/Sublime_Text)
-[![Shell](https://img.shields.io/badge/Z--shell-%23434C5E?style=for-the-badge&logo=powerShell&labelColor=%23000000&logoColor=white)](https://en.wikipedia.org/wiki/Z_shell)
-[![Git](https://img.shields.io/badge/Git-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)](https://git-scm.com)
 
 ---
 

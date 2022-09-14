@@ -58,13 +58,14 @@ Version Control
  
  [![Emacs](https://img.shields.io/badge/GNU%20Emacs-%23434C5E?style=for-the-badge&logo=gnuemacs&labelColor=%237F5AB6&logoColor=white)](https://github.com/Arsenic-ATG/Emacs-config)
  [![MacOS](https://img.shields.io/badge/Macos-%23434C5E?style=for-the-badge&logo=apple&labelColor=white&logoColor=black)]()
- [![Windows](https://img.shields.io/badge/Windows-%23434C5E?style=for-the-badge&logo=Windows&labelColor=%230078D6&logoColor=black)]()
+ [![Windows](https://img.shields.io/badge/Windows-%23434C5E?style=for-the-badge&logo=Windows&labelColor=%230078D6&logoColor=white)]()
  
  Terminal and Shells: 
  
  [![iterm-2](https://img.shields.io/badge/iterm2-%23434C5E?style=for-the-badge&logo=iTerm2&labelColor=black&logoColor=white)]()
  [![warp](./assets/badges/warp_shield.svg)]()
- [![Shell](https://img.shields.io/badge/Z--shell-%23434C5E?style=for-the-badge&logo=powerShell&labelColor=%23000000&logoColor=white)](https://en.wikipedia.org/wiki/Z_shell)
+ [![zsh](https://img.shields.io/badge/Z--shell-%23434C5E?style=for-the-badge&logo=powerShell&labelColor=%23000000&logoColor=white)](https://en.wikipedia.org/wiki/Z_shell)
+ [![bash](https://img.shields.io/badge/Bash-%23434C5E?style=for-the-badge&logo=GNU%20Bash&labelColor=%234EAA25&logoColor=black)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
  
  Text Editor
 

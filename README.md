@@ -99,7 +99,8 @@ Version Control
 
  ----
  
-#### If you are looking 👀 to contribute to a project then check out [Awsome Automations](https://github.com/Arsenic-ATG/Awesome-Automations) 🧐 repository, You might find something that interests you.
+#### If you are looking 👀 to contribute to a project then check out the pinned repositories on my [GithHub profile](https://github.com/Arsenic-ATG), I always make sure to leave some beginner friendly bugs (code, no-code, low-code) for new-commers to fix ( even [this very readme](https://github.com/Arsenic-ATG/Arsenic-ATG/issues) have got some ), issues marked as `good-first-issue` must be the one you should be looking for.
+
  ----
 <a href= mailto:arsenic.secondary@gmail.com>
 <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>

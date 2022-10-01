@@ -39,7 +39,7 @@ Documentation:
 [![markdown](https://img.shields.io/badge/markdown-%23434C5E?style=for-the-badge&logo=Markdown&labelColor=black&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 [![org mode](https://img.shields.io/badge/Org%20mode-%23434C5E?style=for-the-badge&logo=Org&labelColor=%2377AA99&logoColor=white)](https://orgmode.org)
 
-debugging 
+Debugging 
 
 [![gdb](./assets/badges/gdb_shield.svg)](https://www.sourceware.org/gdb/)
 [![lldb](https://img.shields.io/badge/LLDB-%23434C5E?style=for-the-badge&logo=llvm&labelColor=%23262D3A&logoColor=white)](https://lldb.llvm.org)

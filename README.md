@@ -27,7 +27,6 @@
  Frameworks and tools : 
  
  [![Qt](https://img.shields.io/badge/Qt-%23434C5E?style=for-the-badge&logo=Qt&labelColor=%2341CD52&logoColor=white)](https://www.qt.io)
- [![CocoaTouch](https://img.shields.io/badge/Cocoa(touch)-%23434C5E?style=for-the-badge&logo=Apple&labelColor=white&logoColor=black)](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html)
  [![SDL2.0](./assets/badges/sdl_shield.svg)](https://www.libsdl.org) 
  [![emscripten](./assets/badges/emscripten_shield.svg)](https://emscripten.org)
  [![gcc](./assets/badges/gcc_shield.svg)](https://gcc.gnu.org)

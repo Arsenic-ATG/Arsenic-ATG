@@ -90,9 +90,11 @@ Version Control
   <img height="137em" src="https://github-profile-trophy.vercel.app/?username=Arsenic-ATG&theme=nord&no-frame=true&margin-w=4&row=1"/>
 </a>
 
+<!--
 <a>
   <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=arsenic-atg&hide_border=true&theme=nord" />
 </a>
+-->
 
 </p>
 

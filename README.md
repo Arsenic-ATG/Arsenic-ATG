@@ -6,8 +6,8 @@
 
 # Hi there <img align="center" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/hello.gif" width="35"> ,I'm Ankur - aka Arsenic
 
-- 🔭 I’m currently working on [Tetris project](https://github.com/Arsenic-ATG/Tetris)
-- 🌱 I'm currently learning more about [concurrancy](https://en.wikipedia.org/wiki/Concurrency_(computer_science)) in C++
+- 🔭 I’m currently working on my university project ( source is currenlty private for the time being )
+- 🌱 I'm currently learning [php](https://www.php.net)
 - ✉️ Best Medium to contact me is via [mail](mailto:arsenic.secondary@gmail.com)
 - 👯 I’m looking to collaborate with other open source enthusiasts on some 😎cool projects
 - 🥅 2022 Goals: increase my average typing speed to 100+ wpm ( currently at 77 wpm )

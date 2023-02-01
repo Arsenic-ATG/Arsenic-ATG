@@ -10,7 +10,6 @@
 - 🌱 I'm currently learning [php](https://www.php.net)
 - ✉️ Best Medium to contact me is via [mail](mailto:arsenic.secondary@gmail.com)
 - 👯 I’m looking to collaborate with other open source enthusiasts on some 😎cool projects
-- 🥅 2022 Goals: increase my average typing speed to 100+ wpm ( currently at 77 wpm )
 - ⚡ Fun fact: I love playing video games and draw pixelart
 ---
 

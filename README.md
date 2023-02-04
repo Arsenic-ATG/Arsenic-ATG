@@ -23,6 +23,8 @@
  [![Python](https://img.shields.io/badge/python-%23434C5E?style=for-the-badge&logo=python&%2B%2B&labelColor=%233776AB&logoColor=white)](https://www.python.org)
  [![Elisp](https://img.shields.io/badge/Elisp-%23434C5E?style=for-the-badge&logo=gnuemacs&labelColor=%237F5AB6&logoColor=white)](https://en.wikipedia.org/wiki/Emacs_Lisp)
  [![Swift](https://img.shields.io/badge/Swift-%23434C5E?style=for-the-badge&logo=Swift&labelColor=%23FA7343&logoColor=white)](https://developer.apple.com/swift/)
+ [![laravel](https://img.shields.io/badge/Laravel-%23434C5E?style=for-the-badge&logo=Laravel&labelColor=%23FF2D20&logoColor=white)](https://laravel.com/)
+ [![php](https://img.shields.io/badge/php-%23434C5E?style=for-the-badge&logo=php&labelColor=%23777BB4&logoColor=white)](https://www.php.net/)
  
  Frameworks and tools : 
  

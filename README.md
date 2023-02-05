@@ -82,16 +82,16 @@ Version Control
 <br />
 
 <p align="center">
-<a>
+<a href = "https://github.com/anuraghazra/github-readme-stats ">
   <img height="180em" src="https://grs-delta-taupe-49.vercel.app/api?username=Arsenic-ATG&show_icons=true&hide_border=true&count_private=true&theme=nord"/>
   <img height="180em" src="https://grs-delta-taupe-49.vercel.app/api/top-langs/?username=Arsenic-ATG&hide=TeX,QMake&theme=nord&layout=compact&hide_border=true"/>
 </a>
 
-<a>
+<a href = "https://github.com/ryo-ma/github-profile-trophy">
   <img height="137em" src="https://github-profile-trophy.vercel.app/?username=Arsenic-ATG&theme=nord&no-frame=true&margin-w=4&row=1"/>
 </a>
 
-<a>
+<a href = "https://github.com/Ashutosh00710/github-readme-activity-graph">
   <img height="295em" src="https://github-readme-activity-graph.cyclic.app/graph?username=arsenic-atg&hide_border=true&theme=nord"" />
 </a>
 

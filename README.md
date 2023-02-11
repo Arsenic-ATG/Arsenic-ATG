@@ -33,7 +33,7 @@
  [![gcc](./assets/badges/gcc_shield.svg)](https://gcc.gnu.org)
  [![llvm](https://img.shields.io/badge/LLVM-%23434C5E?style=for-the-badge&logo=llvm&labelColor=%23262D3A&logoColor=white)](https://llvm.org)
  [![doxygen](./assets/badges/doxygen_shield.svg)](https://doxygen.nl)
-  [![laravel](https://img.shields.io/badge/Laravel-%23434C5E?style=for-the-badge&logo=Laravel&labelColor=%23FF2D20&logoColor=white)](https://laravel.com/)
+ [![laravel](https://img.shields.io/badge/Laravel-%23434C5E?style=for-the-badge&logo=Laravel&labelColor=%23FF2D20&logoColor=white)](https://laravel.com/)
  
 Documentation: 
 

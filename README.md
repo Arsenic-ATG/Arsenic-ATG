@@ -11,6 +11,7 @@
 - ✉️ Best Medium to contact me is via [mail](mailto:arsenic.secondary@gmail.com)
 - 👯 I’m looking to collaborate with other open source enthusiasts on some 😎cool projects
 - ⚡ Fun fact: I love playing video games and draw pixelart
+- 🖌️Theme: This entire profile readme is in [Nord Theme's](https://www.nordtheme.com) color scheme.
 ---
 
 <details><summary><strong>Skills 🛠:</strong></summary>

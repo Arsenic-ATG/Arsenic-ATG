@@ -6,10 +6,9 @@
 
 # Hi there <img align="center" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/hello.gif" width="35"> ,I'm Ankur - aka Arsenic
 
-- 🔭 I’m currently working on my university project ( [8085 emulation library](https://github.com/Arsenic-ATG/8085) )
+- 🔭 I’m currently working on my [GSoC 2023 project](https://summerofcode.withgoogle.com/programs/2023/projects/lAxUTgOM) with [LLVM](https://github.com/llvm)
 - ✂️ I'm also almost everytime configuring [my Emacs](https://github.com/Arsenic-ATG/Emacs-config)
 - ✉️ Best Medium to contact me is via [mail](mailto:arsenic.secondary@gmail.com)
-- 👯 I’m looking to collaborate with other open source enthusiasts on some 😎cool projects
 - 🙃 Hobbies : I love playing video games and draw pixelart
 - ⚡ Fun fact: This entire profile readme is in [Nord Theme's](https://www.nordtheme.com) color scheme.
 ---

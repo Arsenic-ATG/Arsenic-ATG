@@ -85,17 +85,19 @@ Version Control
 
 <p align="center">
 <a href = "https://github.com/anuraghazra/github-readme-stats ">
-  <img height="180em" src="https://github-readme-stats-2-five-omega.vercel.app/api?username=Arsenic-ATG&show_icons=true&hide_border=true&count_private=true&theme=nord&show=reviews&rank_icon=percentile"/>
-  <img height="180em" src="https://github-readme-stats-2-five-omega.vercel.app/api/top-langs/?username=Arsenic-ATG&hide=TeX,QMake&theme=nord&layout=compact&hide_border=true"/>
-</a>
-
-<a href = "https://github.com/ryo-ma/github-profile-trophy">
-  <img height="137em" src="https://github-profile-trophy.vercel.app/?username=Arsenic-ATG&theme=nord&no-frame=true&margin-w=4&row=1"/>
+  <img height="212em" src="https://github-readme-stats-2-five-omega.vercel.app/api?username=Arsenic-ATG&show_icons=true&hide_border=true&count_private=true&theme=nord&show=reviews&rank_icon=percentile"/>
+  <img height="212em" src="https://github-readme-stats-2-five-omega.vercel.app/api/top-langs/?username=Arsenic-ATG&hide=TeX,QMake&theme=nord&layout=compact&hide_border=true"/>
 </a>
 
 <a href = "https://github.com/Ashutosh00710/github-readme-activity-graph">
   <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=arsenic-atg&hide_border=true&theme=nord" />
 </a>
+
+<a href = "https://github.com/ryo-ma/github-profile-trophy">
+  <img height="328em" src="https://github-profile-trophy.vercel.app/?username=Arsenic-ATG&theme=nord&no-frame=true&margin-w=4&row=2&column=5"/>
+</a>
+
+
 
 </p>
 

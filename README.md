@@ -5,14 +5,14 @@
 ---
 
 # Hi there <img align="center" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/hello.gif" width="35"> ,I'm Ankur - aka Arsenic
-
- ### 🔧 Profile is temorarily down for maintenance 🛠️
 <!---
 - 🔭 I’m currently working on my [GSoC 2023 project](https://summerofcode.withgoogle.com/programs/2023/projects/lAxUTgOM) with [LLVM](https://github.com/llvm)
 - ✂️ I'm also almost everytime configuring [my Emacs](https://github.com/Arsenic-ATG/Emacs-config)
 - ✉️ Best Medium to contact me is via [mail](mailto:arsenic.secondary@gmail.com)
 - 🙃 Hobbies : I love playing video games and draw pixelart
 - ⚡ Fun fact: This entire profile readme is in [Nord Theme's](https://www.nordtheme.com) color scheme.
+--->
+
 ---
 
 <details><summary><strong>Skills 🛠:</strong></summary>
@@ -85,8 +85,8 @@ Version Control
 
 <p align="center">
 <a href = "https://github.com/anuraghazra/github-readme-stats ">
-  <img height="180em" src="https://grs-delta-taupe-49.vercel.app/api?username=Arsenic-ATG&show_icons=true&hide_border=true&count_private=true&theme=nord"/>
-  <img height="180em" src="https://grs-delta-taupe-49.vercel.app/api/top-langs/?username=Arsenic-ATG&hide=TeX,QMake&theme=nord&layout=compact&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-2-five-omega.vercel.app/api?username=Arsenic-ATG&show_icons=true&hide_border=true&count_private=true&theme=nord&show=reviews&rank_icon=percentile"/>
+  <img height="180em" src="https://github-readme-stats-2-five-omega.vercel.app/api/top-langs/?username=Arsenic-ATG&hide=TeX,QMake&theme=nord&layout=compact&hide_border=true"/>
 </a>
 
 <a href = "https://github.com/ryo-ma/github-profile-trophy">
@@ -94,7 +94,7 @@ Version Control
 </a>
 
 <a href = "https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img height="295em" src="https://github-readme-activity-graph.cyclic.app/graph?username=arsenic-atg&hide_border=true&theme=nord"" />
+  <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=arsenic-atg&hide_border=true&theme=nord" />
 </a>
 
 </p>

@@ -5,13 +5,12 @@
 ---
 
 # Hi there <img align="center" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/hello.gif" width="35"> ,I'm Ankur - aka Arsenic
-<!---
-- 🔭 I’m currently working on my [GSoC 2023 project](https://summerofcode.withgoogle.com/programs/2023/projects/lAxUTgOM) with [LLVM](https://github.com/llvm)
-- ✂️ I'm also almost everytime configuring [my Emacs](https://github.com/Arsenic-ATG/Emacs-config)
+
+I am currently trying to come back to open source and programming in general after a very long break.
+
+- ✂️ I'm currently working on my [my Emacs Configuration](https://github.com/Arsenic-ATG/Emacs-config) and trying to get my entire github profile in order
 - ✉️ Best Medium to contact me is via [mail](mailto:arsenic.secondary@gmail.com)
-- 🙃 Hobbies : I love playing video games and draw pixelart
 - ⚡ Fun fact: This entire profile readme is in [Nord Theme's](https://www.nordtheme.com) color scheme.
---->
 
 ---
 
@@ -124,5 +123,3 @@ Version Control
 <a href= "https://www.sololearn.com/profile/15170059">
 <img src= "https://img.shields.io/badge/Sololearn-149ef2?style=for-the-badge&logo=sololearn&logoColor=white"/>
 </a>
-
---->

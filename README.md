@@ -8,7 +8,7 @@
 
 I am currently trying to come back to open source and programming in general after a very long break.
 
-- ✂️ I'm currently working on my [my Emacs Configuration](https://github.com/Arsenic-ATG/Emacs-config) and trying to get my entire github profile in order
+<!-- - ✂️ I'm currently working on my [my Emacs Configuration](https://github.com/Arsenic-ATG/Emacs-config) and trying to get my entire github profile in order -->
 - ✉️ Best Medium to contact me is via [mail](mailto:arsenic.secondary@gmail.com)
 - ⚡ Fun fact: This entire profile readme is in [Nord Theme's](https://www.nordtheme.com) color scheme.
 

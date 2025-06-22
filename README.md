@@ -81,11 +81,17 @@ Version Control
 
 <details><summary><strong>Click to see my Profile stats 📊</strong></summary>
 <br />
-
+<!---
 <p align="center">
 <a href = "https://github.com/anuraghazra/github-readme-stats ">
   <img height="212em" src="https://github-readme-stats-2-five-omega.vercel.app/api?username=Arsenic-ATG&show_icons=true&hide_border=true&count_private=true&theme=nord&show=reviews&rank_icon=percentile"/>
   <img height="212em" src="https://github-readme-stats-2-five-omega.vercel.app/api/top-langs/?username=Arsenic-ATG&hide=TeX,QMake&theme=nord&layout=compact&hide_border=true"/>
+</a>
+ --->
+<p align="center">
+<a href = "https://github.com/anuraghazra/github-readme-stats ">
+  <img height="212em" src="https://github-readme-stats.vercel.app/api?username=Arsenic-ATG&show_icons=true&hide_border=true&count_private=true&theme=nord&show=reviews&rank_icon=percentile"/>
+  <img height="212em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsenic-ATG&hide=TeX,QMake&theme=nord&layout=compact&hide_border=true"/>
 </a>
 
 <a href = "https://github.com/Ashutosh00710/github-readme-activity-graph">

@@ -9,6 +9,7 @@
 I am currently trying to come back to open source and programming in general after a very long break.
 
 - ✂️ I'm currently working on project [Snake](https://github.com/Arsenic-ATG/Snake)
+- 📚 I'm currently learning graphics programming (limited to [SDL3](https://wiki.libsdl.org/SDL3/FrontPage) and C++ for now)
 - ✉️ Best Medium to contact me is via [mail](mailto:arsenic.secondary@gmail.com)
 - ⚡ Fun fact: This entire profile readme is in [Nord Theme's](https://www.nordtheme.com) color scheme.
 
